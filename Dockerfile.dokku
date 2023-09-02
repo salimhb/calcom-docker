@@ -1,1 +1,1 @@
-FROM calcom/cal.com
+FROM calcom/docker:canary
