@@ -1,3 +1,3 @@
-FROM calcom/cal.com:canary
+FROM kaumudpa/calcom:4.0.7
 
 ENV NODE_ENV production
