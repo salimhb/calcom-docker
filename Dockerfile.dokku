@@ -1,3 +1,3 @@
-FROM kaumudpa/calcom:4.0.7
+FROM kaumudpa/calcom:4.5.8
 
 ENV NODE_ENV production
